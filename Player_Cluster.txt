@@ -1,0 +1,28 @@
+cluster 1 
+Paul Pogba x 
+Aymeric Laporte x
+Granit Xhaka x
+Harry Maguire x 
+Michael Keane x 
+
+cluster 2 
+Ross Barkley x
+Donny van de Beek x 
+Dele Alli x 
+Alex Oxlade-Chamberlain x
+Oleksandr Zinchenko x
+
+cluster 3
+Jorginho x 
+Richarlison x 
+Mohamed Salah x 
+Kevin De Bruyne x 
+Cristiano Ronaldo x 
+
+cluster 4
+Aaron Ramsdale x
+Ben White x 
+Christian Eriksen x
+Aaron Lennon x
+Edouard Mendy x 
+
